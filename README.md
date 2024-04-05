@@ -11,11 +11,11 @@
 
 This Node.js application achieves the following goals:
 
-1- ###Authentication:### It extracts the username and password from the Authorization header using Basic Authentication.
+1- **_Authentication:_** It extracts the username and password from the Authorization header using Basic Authentication.
 
-2- ###Body Handling:### The application asynchronously parses the request body, freeing it up to carry payloads for other HTTP methods.
+2- **_Body Handling:_** The application asynchronously parses the request body, freeing it up to carry payloads for other HTTP methods.
 
-3- ###Book and Author Endpoints:### Additional endpoints are added for books and authors, supporting GET, POST, PUT, PATCH, and DELETE methods. While these endpoints don't perform actual actions, they respond to requests accordingly.
+3- **_Book and Author Endpoints:_** Additional endpoints are added for books and authors, supporting GET, POST, PUT, PATCH, and DELETE methods. While these endpoints don't perform actual actions, they respond to requests accordingly.
 Overall, the application provides a basic framework for handling authentication, routing requests to appropriate endpoints, and responding to various HTTP methods for both books and authors.
 
 ### Built with
