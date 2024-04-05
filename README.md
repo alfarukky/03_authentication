@@ -1,4 +1,4 @@
-# ALtSchool Africa - Web Development Training
+# ALtSchool Africa - Web Development Training (NodeJS)
 
 ## Table of contents
 
